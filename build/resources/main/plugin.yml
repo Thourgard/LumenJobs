@@ -1,0 +1,8 @@
+name: Jobs
+version: '0.1'
+main: me.thour.jobs.Jobs
+api-version: '1.21'
+commands:
+  lumen:
+    description:  Can't be fucked
+    usage: </command>
